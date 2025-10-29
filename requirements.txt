@@ -1,0 +1,5 @@
+Email password
+Gemini API ID
+telegram API id, API hash
+personality dataset
+sample voice
